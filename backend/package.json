@@ -1,7 +1,10 @@
 {
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.19.2",
-    "mongoose": "^8.4.0"
+    "mongodb": "^6.6.2",
+    "mongoose": "^8.4.0",
+    "pusher": "^5.2.0"
   },
   "name": "backend",
   "version": "1.0.0",
